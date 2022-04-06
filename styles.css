@@ -1,0 +1,108 @@
+#main {
+    transition: margin-left .5s;
+}
+    
+.container {
+        display: flex;
+}
+
+.page-content {
+        color: black;
+}
+
+/***************************************************/
+
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #5680E9;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+    
+.sidebar div {
+    padding: 8px 8px 8px 30px;
+    font-size: 24px;
+    display: block;
+    transition: 0.5s;
+    cursor: pointer;
+}
+    
+.sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+}
+    
+.openbtn {
+    font-size: 5px;
+    cursor: pointer;
+    background-color: #5680E9;
+    border-radius: 50%;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 2px 2px 2px;
+}
+    
+#nav-bar-top {
+        text-align: center;
+        display: flex;
+}
+
+.nav-item {
+        background-color: #5AB9EA;
+        list-style: none;
+        margin: 10px;
+        font-size: x-large;
+        text-align: left;
+        border-color: black;
+        border-style: solid;
+        text-decoration: none;
+        border-radius: 5px;
+        box-shadow: 2px 2px 2px;
+}
+
+a:link { 
+        text-decoration: none;
+}
+
+/***************************************************/
+    
+.top-bar {
+        background-color: #5AB9EA;
+        width: 250%;
+        overflow: auto;
+}
+
+.header-content {
+	text-align: center;
+	box-shadow: 2px 2px 2px black;
+	display: inline-block;
+	margin: 1%;
+	border-style: solid;
+	border-radius: 5px;
+	width:30%;
+}
+
+#brand { 
+	color: white;
+	}
+
+#slogan {
+	color: black;
+	}
+
+
+#page-heading {
+	    font-size: large;
+        margin-left: 4%;
+}
+
+

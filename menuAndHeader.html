@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Provisio Home</title> 
+<link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+
+<body>
+
+    <div class='container'>    
+        <div id="mySidebar" class="sidebar">
+            <div class="closebtn" onclick="closeNav()"><strong>×</strong></div>
+            <h2 id="nav-bar-top">Login/Register</h2>
+            <div class="nav-item"><a href="#">Home</a></div>
+            <div class="nav-item"><a href="#">About Us</div>
+            <div class="nav-item"><a href="#">Contact Us</div>
+            <div class="nav-item"><a href="#">Locations</div>
+            <div class="nav-item"><a href="/Provisio/src/main/webapp/ReservationBooking.jsp">Book Your Vacation</div>
+            <div class="nav-item"><a href="#">Lookup Your Vacation</div>
+            <div class="nav-item"><a href="#">Provisio Points</div>
+        </div>
+
+        <div id="main">
+            <button class="openbtn" onclick="openNav()">
+                <strong>&gt</strong>
+            </button>
+            <div class='top-bar'>
+                <div class="header-content" id="brand"><h1>Provisio Hotels</h1></div>
+                <div class="header-content" id="slogan"><h1>"Your Grand Getaway Awaits!"</h1></div>
+            </div>
+            <div id="welcome-message"><strong>Welcome to Provisio Hotels where you are sure to get exceptional 
+            service in amazing locations for an unbelievable price.</strong></div>
+        </div>
+             <div id="quote"><h3>“Travel is the only<h3>
+                            <h3>thing you buy that</h3> 
+                            <h3>makes you richer.”</h3> 
+                            <h3>- Anonymous</h3>
+            </div>
+        
+    </div>
+
+    <!-- Functions for collapsing side nav bar -->
+    <script>
+        function openNav() {
+            document.getElementById("mySidebar").style.width = "250px";
+            document.getElementById("main").style.marginLeft = "250px";
+        }
+        
+        function closeNav() {
+            document.getElementById("mySidebar").style.width = "0";
+            document.getElementById("main").style.marginLeft= "0";
+        }
+    </script>
+</body>
+</html>
