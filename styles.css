@@ -1,10 +1,6 @@
 #main {
     transition: margin-left .5s;
 }
-    
-.container {
-        display: flex;
-}
 
 .page-content {
         color: black;
@@ -52,8 +48,8 @@
 }
     
 #nav-bar-top {
-        text-align: center;
         display: flex;
+        margin-left: 18%;
 }
 
 .nav-item {
