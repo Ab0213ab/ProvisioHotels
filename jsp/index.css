@@ -1,0 +1,194 @@
+#main {
+    transition: margin-left .5s;
+}
+
+.page-content {
+        color: black;
+}
+
+/***************************************************/
+
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #5680E9;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+    
+.sidebar div {
+    padding: 8px 8px 8px 30px;
+    font-size: 24px;
+    display: block;
+    transition: 0.5s;
+    cursor: pointer;
+}
+    
+.sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+}
+    
+.openbtn {
+    font-size: 5px;
+    cursor: pointer;
+    background-color: #5680E9;
+    border-radius: 50%;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 2px 2px 2px;
+}
+    
+#nav-bar-top {
+        display: flex;
+        margin-left: 18%;
+}
+
+.nav-item {
+        background-color: #5AB9EA;
+        list-style: none;
+        margin: 10px;
+        font-size: x-large;
+        text-align: left;
+        border-color: black;
+        border-style: solid;
+        text-decoration: none;
+        border-radius: 5px;
+        box-shadow: 2px 2px 2px;
+}
+
+a:link { 
+        text-decoration: none;
+}
+
+/***************************************************/
+    
+.top-bar {
+        display: flex;
+        background-color: #5AB9EA;
+        width: 100%;
+        justify-content: flex-start;
+}
+
+.header-content {
+	text-align: center;
+	box-shadow: 2px 2px 2px black;
+	display: inline-block;
+	margin: 1%;
+	border-style: solid;
+	border-radius: 5px;
+	width:30%;
+}
+
+#brand { 
+	color: white;
+        width: 45%;
+	}
+
+#slogan {
+	color: black;
+        width: 45%;
+	}
+
+
+#page-heading {
+	font-size: large;
+        margin-left: 4%;
+}
+
+#user-icon {
+        background-color: red;
+        border: solid 1px #333;
+        float: right;
+        text-align: center;
+        padding: 5px;
+}
+
+.slideshow {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+        padding: 16px;
+        font-weight: bold;
+        font-size: 18px;
+        user-select: none;
+        max-height: 500px;
+}
+
+.prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        margin-top: -22px;
+        padding: 16px;
+        color: white;
+        font-weight: bold;
+        font-size: 40px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+      }
+.numbertext {
+        color: #f2f2f2;
+        padding: 16px 20px;
+        font-size: 30px;
+        position: absolute;
+        top: 0;
+      }
+
+.myslides {
+        display: none;
+}
+
+.next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+      }
+
+.dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+      }
+
+.active, .dot:hover {
+        background-color: #717171;
+      }
+
+.fade {
+       animation-name: fade;
+        animation-duration: 1.5s;
+      }
+@keyframes fade {
+        from {opacity: .4}
+        to {opacity: 1}
+      }
+
+.text {
+        color: black;
+        font-size: 20px;
+        padding: 8px;
+        position: relative;
+        bottom: 8px;
+        width: 100%;
+        text-align: center;
+        
+      }
+img {
+        object-fit: cover;
+}
+
