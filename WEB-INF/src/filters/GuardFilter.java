@@ -31,6 +31,7 @@ public class GuardFilter implements Filter {
 	private final static String[] guest_user_areas = {
 		"login",
 		"register",
+		"index",
 		"home"
 	};
 
