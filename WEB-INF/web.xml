@@ -34,6 +34,16 @@
 		<url-pattern>/register</url-pattern>
 	</servlet-mapping>
 
+	<servlet>
+		<servlet-name>HomeServlet</servlet-name>
+		<servlet-class>Provisio.HomeServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>HomeServlet</servlet-name>
+		<url-pattern>/home</url-pattern>
+	</servlet-mapping>
+
 	<!--
 		Universal parameter name for handling user emails
 	-->
@@ -100,4 +110,19 @@
 		<param-value>/jsp/register.jsp</param-value>
 	</context-param>
 
+	<!--
+		Redirect to home page - host context
+	-->
+	<context-param>
+		<param-name>UserHomeRedirectHostContextURL</param-name>
+		<param-value>/Provisio/jsp/index.jsp</param-value>
+	</context-param>
+
+	<!--
+		Redirect to home page - project context
+	-->
+	<context-param>
+		<param-name>UserHomeRedirectProjectContextURL</param-name>
+		<param-value>/jsp/index.jsp</param-value>
+	</context-param>
 </web-app>

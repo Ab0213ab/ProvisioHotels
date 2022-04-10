@@ -2,6 +2,19 @@
     transition: margin-left .5s;
 }
 
+.flex-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-item-sm {
+    flex: 1 0 auto;
+}
+
+.flex-item-lg {
+    flex: 3 0 auto;
+}
+
 .page-content {
         color: black;
 }
@@ -72,10 +85,10 @@ a:link {
 /***************************************************/
     
 .top-bar {
-        display: flex;
+        /*display: flex;*/
         background-color: #5AB9EA;
         width: 100%;
-        justify-content: flex-start;
+        /*justify-content: flex-start;*/
 }
 
 .header-content {
@@ -90,12 +103,12 @@ a:link {
 
 #brand { 
 	color: white;
-        width: 45%;
+        /*width: 45%;*/
 	}
 
 #slogan {
 	color: black;
-        width: 45%;
+        /*width: 45%;*/
 	}
 
 

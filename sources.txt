@@ -2,6 +2,7 @@
 ./WEB-INF/src/servlets/LoginServlet.java
 ./WEB-INF/src/servlets/LogoutServlet.java
 ./WEB-INF/src/servlets/RegisterServlet.java
+./WEB-INF/src/servlets/HomeServlet.java
 ./WEB-INF/src/interfaces/DBDeleteStatementInterface.java
 ./WEB-INF/src/interfaces/DBWhereClauseInterface.java
 ./WEB-INF/src/interfaces/DBUpdateStatementInterface.java
