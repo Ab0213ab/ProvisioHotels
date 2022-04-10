@@ -41,6 +41,7 @@ public class GuardFilter implements Filter {
 	private final static String[] do_nothing_areas = {
 		".css",
 		".js",
+		".png",
 		"Provisio/tests/" // Anything in tests/* is open to public
 	};
        
