@@ -1,0 +1,217 @@
+#user-profile {
+    margin-left: auto;
+    padding: 20px;
+    color: black;
+}
+
+#user-profile-anchor {
+    color: white;
+}
+
+#user-profile-anchor:hover {
+    cursor: pointer;
+}
+
+/* Button used to open the contact form - fixed at the top right of the page */
+.open-button {
+  
+  background-color: #5680E9;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  top: 23px;
+  right: 28px;
+  width: 280px;
+
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  top: 100px;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+
+}
+
+/* Add styles to the popup container */
+.form-container {
+  max-width: flex;
+  padding: 10px;
+  background-color: white;
+ 
+}
+
+
+/* Set a style for the Provisio/logout button */
+.form-container .btn {
+  background-color: #5680E9;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100px;
+  height: 75px;
+  margin-bottom:10px;
+  opacity: 0.8;
+  
+}
+
+
+/* Add a background to the logout button */
+.form-container .logout {
+  background-color: #5680E9;
+  display: inline;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+#main {
+    transition: margin-left .5s;
+}
+
+.page-content {
+        color: black;
+}
+
+/* This is new */
+html {
+    background-color: #5AB9EA; 
+}
+
+/*Side Bar**************************************************/
+
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #5680E9;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+    
+.sidebar div {
+    padding: 8px 8px 8px 30px;
+    font-size: 24px;
+    display: block;
+    transition: 0.5s;
+    cursor: pointer;
+}
+    
+.sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+}
+    
+.openbtn {
+    font-size: 5px;
+    cursor: pointer;
+    background-color: #5680E9;
+    border-radius: 50%;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 2px 2px 2px;
+}
+    
+#nav-bar-top {
+        display: flex;
+        margin-left: 18%;
+}
+
+.nav-item {
+        background-color: #5AB9EA;
+        list-style: none;
+        margin: 10px;
+        font-size: x-large;
+        text-align: left;
+        border-color: black;
+        border-style: solid;
+        text-decoration: none;
+        border-radius: 5px;
+        box-shadow: 2px 2px 2px;
+}
+
+a:link { 
+        text-decoration: none;
+}
+
+/*Shared Header**************************************************/
+    
+.top-bar {
+        background-color: #5680E9;
+        width: 100%;
+        overflow: hidden;
+}
+
+#brand { 
+	color: white;
+	}
+	
+.page-heading {
+       margin-left: 2%;
+       margin-top: 2%;
+       text-decoration: underline;
+       font-size: 20px;
+}
+
+.welcome-message {
+	font-size: 15px;
+	color: black;
+	padding-left: 2px;
+	margin: 2%;
+}
+
+/*Registration Page Secondary**************************************************/
+
+#reg-message {
+	padding-left: 18%;
+    margin-bottom: 6%;
+    margin-top: 2%;
+}
+
+.header-content_2 {
+    box-shadow: 2px 2px 2px black;
+    border-style: solid;
+    border-radius: 5px;
+    padding-left: 20%;
+    display: flex;
+    flex-direction: row;
+}
+
+.prompt-item {
+    background-color: lightgray;
+    list-style: none;
+    margin: 2%;
+    margin-left: 35%;
+    font-size: x-large;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+    width: 20%;
+    float: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+

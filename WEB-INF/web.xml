@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+	id="WebApp_ID" version="4.0">
+	<display-name>Provisio</display-name>
+	<servlet>
+		<servlet-name>LoginServlet</servlet-name>
+		<servlet-class>Provisio.LoginServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>LoginServlet</servlet-name>
+		<url-pattern>/login</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>LogoutServlet</servlet-name>
+		<servlet-class>Provisio.LogoutServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>LogoutServlet</servlet-name>
+		<url-pattern>/logout</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>RegisterServlet</servlet-name>
+		<servlet-class>Provisio.RegisterServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>RegisterServlet</servlet-name>
+		<url-pattern>/register</url-pattern>
+	</servlet-mapping>
+
+	<!--
+		Universal parameter name for handling user emails
+	-->
+	<context-param>
+		<param-name>SessionUserEmail</param-name>
+		<param-value>user_email</param-value>
+	</context-param>
+
+	<!--
+		Universal parameter name for handling user ids
+	-->
+	<context-param>
+		<param-name>SessionUserId</param-name>
+		<param-value>user_id</param-value>
+	</context-param>
+
+	<!--
+		Universal redirect to login: path starts from host/ root
+	-->
+	<context-param>
+		<param-name>LoginRedirectHostContextURL</param-name>
+		<param-value>/Provisio/jsp/login.jsp</param-value>
+	</context-param>
+
+	<!--
+		Universal redirect to login: path starts from host/project root
+	-->
+	<context-param>
+		<param-name>LoginRedirectProjectContextURL</param-name>
+		<param-value>/jsp/login.jsp</param-value>
+	</context-param>
+
+	<!--
+		Universal redirect to wherever logged in users should go
+		if they try to go to login or register: path starts from host/ root
+	-->
+	<context-param>
+		<param-name>UserLobbyRedirectHostContextURL</param-name>
+		<param-value>/Provisio/jsp/prompt.jsp</param-value>
+	</context-param>
+
+	<!--
+		Universal redirect to wherever logged in users should go
+		if they try to go to login or register: path starts from host/project root
+	-->
+	<context-param>
+		<param-name>UserLobbyRedirectProjectContextURL</param-name>
+		<param-value>/jsp/prompt.jsp</param-value>
+	</context-param>
+
+	<!--
+		Redirect to registration page - host context
+	-->
+	<context-param>
+		<param-name>UserRegistrationRedirectHostContextURL</param-name>
+		<param-value>/Provisio/jsp/register.jsp</param-value>
+	</context-param>
+
+	<!--
+		Redirect to registration page - project context
+	-->
+	<context-param>
+		<param-name>UserRegistrationRedirectProjectContextURL</param-name>
+		<param-value>/jsp/register.jsp</param-value>
+	</context-param>
+
+</web-app>
