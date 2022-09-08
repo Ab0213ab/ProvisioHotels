@@ -20,7 +20,7 @@ Reservation Booking Form ->|  Reservation Summary
 
 <hr>
 
-Reservation Confirmation ->                 |  Reservation Look Up Form ->               |  Information Retrieved from Database ->
+Reservation Confirmation ->                 |  Reservation Look Up Form ->               |  Information Retrieved from Database
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioConfirm.PNG)  |  ![ScreenShot](/images/provisioLookup.PNG) | ![ScreenShot](/images/provisioLookup2.PNG)
 
