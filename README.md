@@ -10,7 +10,7 @@ README.md screen shot section under construction...
 
 Reservation Booking Form   |  Reservation Summary
 :-------------------------:|:-------------------------:
-![ScreenShot](/images/provisioBook.png)  |  ![ScreenShot](/images/provisioBook2.png)
+![ScreenShot](/images/provisioBook.PNG)  |  ![ScreenShot](/images/provisioBook2.PNG)
 
 Image 1                    |  Image 2
 :-------------------------:|:-------------------------:
