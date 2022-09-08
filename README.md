@@ -16,7 +16,7 @@ Reservation Booking Form   |  Reservation Summary
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioBook.PNG)  |  ![ScreenShot](/images/provisioBook2.PNG)
 
-Image 1                    |  Image 2                     Image 3
+Image 1                    |  Image 2                  |  Image 3
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioRegistration3.png)  |  ![ScreenShot](/images/provisioRegistration3.png) | ![ScreenShot](/images/provisioRegistration3.png)
 
