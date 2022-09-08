@@ -8,7 +8,7 @@ README.md screen shot section under construction...
 
 ![ScreenShot](/images/provisioRegistration3.png)
 
-<img src="/images/provisioRegistration3.png" width="150" height="280">
+<img src="/images/provisioRegistration3.png" width="40%" height="40%">
 
 
 
