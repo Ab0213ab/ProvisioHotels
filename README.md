@@ -8,7 +8,7 @@ README.md screen shot section under construction...
 
 <img src="/images/provisioRegistration3.png" width="40%" height="40%">
 
-Provisio Landing Page      |  Expanded collapsable Nav Bar
+Provisio Landing Page      |  Expanded Collapsable Nav Bar
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioHome.PNG)  |  ![ScreenShot](/images/provisioHome2.PNG)
 
