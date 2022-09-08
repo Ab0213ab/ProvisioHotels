@@ -18,7 +18,7 @@ Reservation Booking Form   |  Reservation Summary
 
 Reservation Confirmation                    |  Reservation Look Up Form                  |  Information Retrieved from Database
 :-------------------------:|:-------------------------:|:-------------------------:
-![ScreenShot](/images/provisioConfirm.png)  |  ![ScreenShot](/images/provisioLookup.png) | ![ScreenShot](/images/provisioLookup2.png)
+![ScreenShot](/images/provisioConfirm.PNG)  |  ![ScreenShot](/images/provisioLookup.PNG) | ![ScreenShot](/images/provisioLookup2.PNG)
 
 
 
