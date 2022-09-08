@@ -8,7 +8,7 @@ README.md screen shot section under construction...
 
 <img src="/images/provisioRegistration3.png" width="40%" height="40%">
 
-Solarized dark             |  Solarized Ocean
+Image 1                    |  Image 2
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioRegistration3.png)  |  ![ScreenShot](/images/provisioRegistration3.png)
 
