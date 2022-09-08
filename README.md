@@ -3,7 +3,14 @@ CSD-460 Green Team Capstone Project Mirror Repository
 
 Original Repository: https://github.com/Jacob-Breault/Provisio
 
-![ScreenShot](provisioHome.PNG)
+## Screen Shots
+README.md screen shot section under construction...
+
+<img src="/images/provisioRegistration3.png" width="40%" height="40%">
+
+Image 1                    |  Image 2
+:-------------------------:|:-------------------------:
+![ScreenShot](/images/provisioRegistration3.png)  |  ![ScreenShot](/images/provisioRegistration3.png)
 
 
 
