@@ -3,10 +3,9 @@ CSD-460 Green Team Capstone Project Mirror Repository
 
 Original Repository: https://github.com/Jacob-Breault/Provisio
 
-## Screen Shots
+## Application Functionality Screen Shots
 README.md screen shot section under construction...
 
-<img src="/images/provisioRegistration3.png" width="40%" height="40%">
 
 Provisio Landing Page with Slide Show -> |  Expanded Collapsable Nav Bar
 :-------------------------:|:-------------------------:
