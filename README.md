@@ -5,6 +5,8 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 
 ![ScreenShot](provisioRegistration3.png)
 
+![ScreenShot](https://github.com/ProvisioHotels/images/provisioRegistration3.png)
+
 
 
 
