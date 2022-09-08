@@ -6,8 +6,6 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 ## Screen Shots
 README.md screen shot section under construction...
 
-![ScreenShot](/images/provisioRegistration3.png)
-
 <img src="/images/provisioRegistration3.png" width="40%" height="40%">
 
 Solarized dark             |  Solarized Ocean
