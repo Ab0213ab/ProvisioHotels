@@ -8,17 +8,23 @@ README.md screen shot section under construction...
 
 <img src="/images/provisioRegistration3.png" width="40%" height="40%">
 
-Provisio Landing Page with Slide Show    |  Expanded Collapsable Nav Bar
+Provisio Landing Page with Slide Show -> |  Expanded Collapsable Nav Bar
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioHome.PNG)  |  ![ScreenShot](/images/provisioHome2.PNG)
 
-Reservation Booking Form   |  Reservation Summary
+<hr>
+
+Reservation Booking Form ->|  Reservation Summary
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioBook.PNG)  |  ![ScreenShot](/images/provisioBook2.PNG)
 
-Reservation Confirmation                    |  Reservation Look Up Form                  |  Information Retrieved from Database
+<hr>
+
+Reservation Confirmation ->                 |  Reservation Look Up Form ->               |  Information Retrieved from Database ->
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioConfirm.PNG)  |  ![ScreenShot](/images/provisioLookup.PNG) | ![ScreenShot](/images/provisioLookup2.PNG)
+
+<hr>
 
 
 
