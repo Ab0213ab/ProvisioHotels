@@ -3,6 +3,10 @@ CSD-460 Green Team Capstone Project Mirror Repository
 
 Original Repository: https://github.com/Jacob-Breault/Provisio
 
+![alt text](https://github.com/ab0213ab/provisioHotels/images/provisioHome.PNG "Logo Title Text 1")
+
+
+
 
 ## Setup and Compilation
 
