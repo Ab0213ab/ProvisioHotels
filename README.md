@@ -8,6 +8,10 @@ README.md screen shot section under construction...
 
 <img src="/images/provisioRegistration3.png" width="40%" height="40%">
 
+Reservation Booking Form   |  Reservation Summary
+:-------------------------:|:-------------------------:
+![ScreenShot](/images/provisioBook.PNG)  |  ![ScreenShot](/images/provisioBook2.PNG)
+
 Image 1                    |  Image 2
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioRegistration3.png)  |  ![ScreenShot](/images/provisioRegistration3.png)
