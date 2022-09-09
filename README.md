@@ -7,7 +7,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 1. [Application Functionality Screen Shots](#application-functionality-screen-shots)
 2. [Application Description](#application-description)
 3. [Technologies Used](technologies-used)
-4. [Set Up and Compilation](#set-up-and-compilation)
+4. [Setup and Compilation](#setup-and-compilation)
 5. [Author Information](author-information)
 
 ## Application Functionality Screen Shots
