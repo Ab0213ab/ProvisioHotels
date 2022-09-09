@@ -7,17 +7,11 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 README.md screen shot section under construction...
 
 ## Table of Contents
-1. [Application Description](#application-description)
-2. [Application Functionality Screen Shots](#application-functionality-screen-shots)
+1. [Application Functionality Screen Shots](#application-functionality-screen-shots)
+2. [Application Description](#application-description)
 3. [Technologies Used](technologies-used)
 4. [Set Up and Compilation](#set-up-and-compilation)
 5. [Author Information](author-information)
-
-### Application Description
-
-This is a fully functioning web-based application designed by a six-person team in a mock agile SDLC environment. This project used advanced Java/JSP, HTML, CSS, JavaScript, and SQL concepts to create a dynamic hotel room booking website for a faux hotel chain named Provisio Hotels. The application features security-conscious techniques like password encryption + salt, input sanitization, password hashing, responsive front-end design, exception handling, session tracking, and the MVC architecture.
-
-[Back to Table of Contents](#table-of-contents)
 
 ## Application Functionality Screen Shots
 
@@ -48,6 +42,12 @@ Loyalty Points Retrieved from Database |  Exception Handling
 Malicious Input ->         |  Input Sanitization       |  Password Validation
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioRegistration2.PNG)  |  ![ScreenShot](/images/provisioRegistration3.png) | ![ScreenShot](/images/provisioRegistration5.PNG)
+
+[Back to Table of Contents](#table-of-contents)
+
+### Application Description
+
+This is a fully functioning web-based application designed by a six-person team in a mock agile SDLC environment. This project used advanced Java/JSP, HTML, CSS, JavaScript, and SQL concepts to create a dynamic hotel room booking website for a faux hotel chain named Provisio Hotels. The application features security-conscious techniques like password encryption + salt, input sanitization, password hashing, responsive front-end design, exception handling, session tracking, and the MVC architecture.
 
 [Back to Table of Contents](#table-of-contents)
 
