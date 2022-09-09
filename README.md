@@ -294,7 +294,7 @@ C:\Users\username\Tomcat10\webapps\Provisio> ..\..\bin\startup
 
 ## Author Information
 Designed and built by Andrew B. Schaefer (Ab0213ab) in tandem with:
-- Caleb Mastromonaco (CMastro)
+- [Caleb Mastromonaco (CMastro)](https://github.com/CMastrom)
 - Parrish Ward (PWard1690) 
 - Mitchell Kwon (battletree) 
 - Jacob Breualt (jacob-breault)
