@@ -6,7 +6,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 
 README.md screen shot section under construction...
 
-## Table Of Contents
+## Table of Contents
 1. [Application Description](#application-description)
 2. Technologies Used
 3. Skills Learned
@@ -272,6 +272,5 @@ C:\Users\username\Tomcat10\webapps\Provisio> dir /s /b *.java > sources.txt
 C:\Users\username\Tomcat10\webapps\Provisio> javac -cp "C:\Users\username\Tomcat10\lib\servlet-api.jar" @sources.txt -d WEB-INF\classes\
 C:\Users\username\Tomcat10\webapps\Provisio> ..\..\bin\startup
 ```
-<hr>
 
 [Back to Table of Contents](#table-of-contents)
