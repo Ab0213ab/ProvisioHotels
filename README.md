@@ -7,7 +7,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 README.md screen shot section under construction...
 
 
-Landing Page with Slide Show -> |  Expanded Collapsable Nav Bar
+Landing Page with Slide Show -> |  Expanded Collapsable Navigation Bar
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioHome.PNG)  |  ![ScreenShot](/images/provisioHome2.PNG)
 
@@ -28,6 +28,12 @@ Reservation Confirmation ->                 |  Reservation Look Up Form ->      
 Loyalty Points Retrieved from Database |  Exception Handling
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioPoints.PNG)  |  ![ScreenShot](/images/provisioInvalidLogin.png)
+
+<hr>
+
+Malicious Input ->         |  Input Sanitization ->               |  Password Validation/Exception Handling
+:-------------------------:|:-------------------------:|:-------------------------:
+![ScreenShot](/images/provisioRegistration2.PNG)  |  ![ScreenShot](/images/provisioRegistration3.png) | ![ScreenShot](/images/provisioRegistration5.PNG)
 
 <hr>
 
