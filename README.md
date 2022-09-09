@@ -46,7 +46,7 @@ Malicious Input ->         |  Input Sanitization       |  Password Validation
 
 ### Application Description
 
-This is a fully functioning web-based application designed by a six-person team in a mock agile SDLC environment. This project used advanced Java/JSP, HTML, CSS, JavaScript, and SQL concepts to create a dynamic hotel room booking website for a faux hotel chain named Provisio Hotels. The application features security-conscious techniques like password encryption + salt, input sanitization, password hashing, responsive front-end design, exception handling, session tracking, and the MVC architecture.
+This is a fully functioning web-based application designed by a six-person team in a mock agile SDLC environment. This project used advanced Java/JSP, HTML, CSS, JavaScript, and SQL concepts to create a dynamic hotel room booking website for a faux hotel chain named Provisio Hotels. The application allows users to view the About Us and Provisio Locations pages without being a registered user. However, if users want to check room availability, book a reservation, or lookup a previous reservation, the guard filter ensures they must first register or login. Once logged in, users may choose their vacation specifications in order to book mock hotel reservations and data like user information and reservation history is securely stored in a MySQL database for future access. The application features security-conscious techniques like password encryption + salt, input sanitization, password hashing, responsive front-end design, exception handling, session tracking, and the MVC architecture.
 
 [Back to Table of Contents](#table-of-contents)
 
