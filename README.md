@@ -31,7 +31,7 @@ Loyalty Points Retrieved from Database |  Exception Handling
 
 <hr>
 
-Malicious Input ->         |  Input Sanitization ->               |  Password Validation/Exception Handling
+Malicious Input ->         |  Input Sanitization       |  Password Validation
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioRegistration2.PNG)  |  ![ScreenShot](/images/provisioRegistration3.png) | ![ScreenShot](/images/provisioRegistration5.PNG)
 
