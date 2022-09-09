@@ -6,9 +6,9 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 ## Table of Contents
 1. [Application Functionality Screen Shots](#application-functionality-screen-shots)
 2. [Application Description](#application-description)
-3. [Technologies Used](technologies-used)
+3. [Technologies Used](#technologies-used)
 4. [Setup and Compilation](#setup-and-compilation)
-5. [Author Information](author-information)
+5. [Author Information](#author-information)
 
 ## Application Functionality Screen Shots
 
@@ -291,3 +291,6 @@ C:\Users\username\Tomcat10\webapps\Provisio> ..\..\bin\startup
 ```
 
 [Back to Table of Contents](#table-of-contents)
+
+## Author Information
+Designed and built by: Andrew B. Schaefer (ab0213ab), Caleb Monstromanaco (cmastro), Mitchell Kwon (battletree), Jacob Breualt (jacob-breault), and Cameron Frison (cfreezon).
