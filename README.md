@@ -7,7 +7,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 README.md screen shot section under construction...
 
 ## Table Of Contents
-- Description
+1. Description
 
 ### Place 1
 
