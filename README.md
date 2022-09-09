@@ -7,7 +7,11 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 README.md screen shot section under construction...
 
 ## Table Of Contents
-1. Description
+1. [Description](#description)
+2. Technologies
+3. Skills Learned
+4. Set Up and Compilation
+5. Author Information
 
 ### Place 1
 
@@ -47,7 +51,7 @@ Malicious Input ->         |  Input Sanitization       |  Password Validation
 
 <hr>
 
-
+### Description
 ### Place 2
 
 Place one has the fun times of linking here, but I can also link back [here](#place-1).
