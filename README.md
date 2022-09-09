@@ -1,5 +1,5 @@
 ## Provisio Hotels
-CSD-460 Green Team Capstone Project Mirror Repository
+Bellevue University Capstone Project Mirror Repository
 
 Original Repository: https://github.com/Jacob-Breault/Provisio
 
