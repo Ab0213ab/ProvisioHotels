@@ -3,12 +3,12 @@ CSD-460 Green Team Capstone Project Mirror Repository
 
 Original Repository: https://github.com/Jacob-Breault/Provisio
 
-## Application Functionality Screen Shots
+
 README.md screen shot section under construction...
 
 ## Table Of Contents
-1. [Description](#description)
-2. Technologies
+1. [Application Description](#application-description)
+2. Technologies Used
 3. Skills Learned
 4. Set Up and Compilation
 5. Author Information
@@ -19,7 +19,7 @@ Hello, this is some text to fill in this, [here](#place-2), is a link to the sec
 
 
 
-
+## Application Functionality Screen Shots
 
 Landing Page with Slide Show -> |  Expanded Collapsable Navigation Bar
 :-------------------------:|:-------------------------:
@@ -51,7 +51,7 @@ Malicious Input ->         |  Input Sanitization       |  Password Validation
 
 <hr>
 
-### Description
+### Application Description
 ### Place 2
 
 Place one has the fun times of linking here, but I can also link back [here](#place-1).
