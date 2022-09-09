@@ -8,14 +8,14 @@ README.md screen shot section under construction...
 
 ## Table of Contents
 1. [Application Description](#application-description)
-2. Technologies Used
-3. Skills Learned
-4. Set Up and Compilation
-5. Author Information
+2. [Application Functionality Screen Shots](#application-functionality-screen-shots)
+3. [Technologies Used](technologies-used)
+4. [Set Up and Compilation](#set-up-and-compilation)
+5. [Author Information](author-information)
 
 ### Application Description
 
-This is a fully functioning web-based application designed by a six-person team in a mock agile SDLC environment. This project used advanced Java/JSP, HTML, CSS, JavaScript, and MySQL concepts to create a dynamic hotel room booking website for a faux hotel chain named Provisio Hotels. The application features security-conscious techniques like password encryption + salt, input sanitization, exception handling, session tracking, and the MVC architecture.
+This is a fully functioning web-based application designed by a six-person team in a mock agile SDLC environment. This project used advanced Java/JSP, HTML, CSS, JavaScript, and MySQL concepts to create a dynamic hotel room booking website for a faux hotel chain named Provisio Hotels. The application features security-conscious techniques like password encryption + salt, input sanitization, password hashing, responsive front-end design, exception handling, session tracking, and the MVC architecture.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -49,7 +49,24 @@ Malicious Input ->         |  Input Sanitization       |  Password Validation
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioRegistration2.PNG)  |  ![ScreenShot](/images/provisioRegistration3.png) | ![ScreenShot](/images/provisioRegistration5.PNG)
 
-<hr>
+[Back to Table of Contents](#table-of-contents)
+
+### Technologies Used
+
+-Java/Java Sever Pages
+-HTML
+-CSS
+-JavaScript
+-SQL scripts
+-XML
+-Custom tags
+-Password hashing
+-Encryptian + Salt
+-Tomcat Server
+-MySQL
+-MVC architecture
+-Responsive front-end design
+-GitHub for version control
 
 [Back to Table of Contents](#table-of-contents)
 
