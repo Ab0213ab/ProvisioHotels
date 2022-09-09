@@ -1,4 +1,4 @@
-# Provisio Hotels
+## Provisio Hotels
 CSD-460 Green Team Capstone Project Mirror Repository
 
 Original Repository: https://github.com/Jacob-Breault/Provisio
@@ -13,10 +13,9 @@ README.md screen shot section under construction...
 4. Set Up and Compilation
 5. Author Information
 
-### Place 1
+### Application Description
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
+[Back to Table of Contents](#table-of-contents)
 
 
 ## Application Functionality Screen Shots
@@ -51,10 +50,7 @@ Malicious Input ->         |  Input Sanitization       |  Password Validation
 
 <hr>
 
-### Application Description
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
+[Back to Table of Contents](#table-of-contents)
 
 ## Setup and Compilation
 
@@ -276,3 +272,6 @@ C:\Users\username\Tomcat10\webapps\Provisio> dir /s /b *.java > sources.txt
 C:\Users\username\Tomcat10\webapps\Provisio> javac -cp "C:\Users\username\Tomcat10\lib\servlet-api.jar" @sources.txt -d WEB-INF\classes\
 C:\Users\username\Tomcat10\webapps\Provisio> ..\..\bin\startup
 ```
+<hr>
+
+[Back to Table of Contents](#table-of-contents)
