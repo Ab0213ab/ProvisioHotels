@@ -15,8 +15,9 @@ README.md screen shot section under construction...
 
 ### Application Description
 
-[Back to Table of Contents](#table-of-contents)
+This is a fully functioning web-based application designed by a six-person team in a mock agile SDLC environment. This project used advanced Java/JSP, HTML, CSS, JavaScript, and MySQL concepts to create a dynamic hotel room booking website for a faux hotel chain named Provisio Hotels. The application features security-conscious techniques like password encryption + salt, input sanitization, exception handling, session tracking, and the MVC architecture.
 
+[Back to Table of Contents](#table-of-contents)
 
 ## Application Functionality Screen Shots
 
