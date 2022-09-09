@@ -7,7 +7,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 README.md screen shot section under construction...
 
 
-Provisio Landing Page with Slide Show -> |  Expanded Collapsable Nav Bar
+Landing Page with Slide Show -> |  Expanded Collapsable Nav Bar
 :-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioHome.PNG)  |  ![ScreenShot](/images/provisioHome2.PNG)
 
