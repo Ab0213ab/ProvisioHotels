@@ -1,5 +1,5 @@
 ## Provisio Hotels
-Bellevue University Capstone Project Mirror Repository
+Capstone Project Mirror Repository
 
 Original Repository: https://github.com/Jacob-Breault/Provisio
 
