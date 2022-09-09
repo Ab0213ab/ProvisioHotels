@@ -40,6 +40,8 @@ Malicious Input ->         |  Input Sanitization       |  Password Validation
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/images/provisioRegistration2.PNG)  |  ![ScreenShot](/images/provisioRegistration3.png) | ![ScreenShot](/images/provisioRegistration5.PNG)
 
+<hr>
+
 [Back to Table of Contents](#table-of-contents)
 
 ### Application Description
