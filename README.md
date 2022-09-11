@@ -300,7 +300,7 @@ Designed and built by Andrew B. Schaefer [(Ab0213ab)](https://github.com/Ab0213a
 - Jacob Breault [(jacob-breault)](https://github.com/Jacob-Breault)
 - Cameron Frison [(The-Freezen)](https://github.com/The-Freezen).
 
-LinkedIn: [Andrew B. Schaefer](https://www.linkedin.com/in/andrewbschaefer/)
+LinkedIn: [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)
 
 Email: [Abs233abs@gmail.com](Abs233abs@gmail.com) 
 
