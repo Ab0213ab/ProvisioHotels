@@ -8,7 +8,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 2. [Application Description](#application-description)
 3. [Technologies Used](#technologies-used)
 4. [Setup and Compilation](#setup-and-compilation)
-5. [Author Information](#author-information)
+5. [Developer Information](#developer-information)
 
 ## Application Functionality Screen Shots
 
@@ -292,7 +292,7 @@ C:\Users\username\Tomcat10\webapps\Provisio> ..\..\bin\startup
 
 [Back to Table of Contents](#table-of-contents)
 
-## Author Information
+## Developer Information
 Designed and built by Andrew B. Schaefer [(Ab0213ab)](https://github.com/Ab0213ab) in tandem with:
 - Caleb Mastromonaco [(CMastro)](https://github.com/CMastrom)
 - Parrish Ward [(PWard1690)](https://github.com/Pward1690) 
