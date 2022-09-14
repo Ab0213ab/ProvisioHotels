@@ -65,6 +65,7 @@ This is a fully functioning web-based application designed by a six-person team 
 - MySQL
 - MVC architecture
 - Responsive front-end design
+- Eclipse IDE
 - GitHub for version control
 
 [Back to Table of Contents](#table-of-contents)
