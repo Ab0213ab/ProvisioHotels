@@ -4,13 +4,13 @@ Capstone Project Mirror Repository
 Original Repository: https://github.com/Jacob-Breault/Provisio
 
 ## Table of Contents
-1. [Application Functionality Screen Shots](#application-functionality-screen-shots)
+1. [Functionality Screen Shots](#functionality-screen-shots)
 2. [Application Description](#application-description)
 3. [Technologies Used](#technologies-used)
 4. [Setup and Compilation](#setup-and-compilation)
 5. [Developer Information](#developer-information)
 
-## Application Functionality Screen Shots
+##Functionality Screen Shots
 
 Landing Page with Slide Show -> |  Expanded Collapsable Navigation Bar
 :-------------------------:|:-------------------------:
@@ -61,7 +61,7 @@ This is a fully functioning web-based application designed by a six-person team 
 - Custom tags
 - Password hashing
 - Encryptian + Salt
-- Tomcat Server
+- Tomcat Server for local hosting
 - MySQL
 - MVC architecture
 - Responsive front-end design
