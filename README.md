@@ -10,7 +10,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 4. [Setup and Compilation](#setup-and-compilation)
 5. [Developer Information](#developer-information)
 
-##Functionality Screen Shots
+## Functionality Screen Shots
 
 Landing Page with Slide Show -> |  Expanded Collapsable Navigation Bar
 :-------------------------:|:-------------------------:
